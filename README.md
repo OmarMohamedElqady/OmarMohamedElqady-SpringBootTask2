@@ -30,48 +30,13 @@ This E-Commerce website, is a full-stack application built with Angular and Java
 
 ## Usage
 
-To make the most of the Luv2Shop website, follow these steps:
+1. **Add Data to the Database
+Before testing the system, make sure to add the required data manually to the database (in-memory or external DB depending on your setup):
 
-1. **Browse the Product Catalog:**
+✅ You must add:
+At least one category (e.g. Food, Electronics)
 
-   - You can access the product catalog without logging in. Simply visit the website to explore the available products.
-
-2. **Login to Your Account:**
-
-   - To log in, use the following credentials:
-     - Email: lajec12115@hapincy.com
-     - Password: admin123456789
-
-3. **Access Additional Features with Login:**
-
-   - Logging in provides access to more sections of the website, such as:
-     - Member: Profile information.
-     - Orders: View your order history.
-
-4. **Add Items to Your Cart:**
-
-   - When you find a product you want to purchase, click the "Add to Cart" button.
-   - You can review and modify the contents of your shopping cart at any time.
-
-5. **Proceed to Checkout:**
-
-   - Once you've added all the desired items to your cart, proceed to checkout.
-   - Provide the necessary shipping and billing information.
-   - Review your order to ensure it's accurate.
-
-6. **Make a Payment Using Stripe:**
-
-   For testing purposes, you can complete your purchase using the following test card details provided by Stripe:
-
-   - Card Number: 4242 4242 4242 4242
-   - Expiration Date: Any future date (e.g., 12/25)
-   - CVC: Any three-digit number (e.g., 123)
-
-   These test card details simulate a successful payment and allow you to test the payment functionality without making actual charges to a credit card.
-
-7. **Order Confirmation and Tracking:**
-   - After successfully placing your order, a confirmation popup will appear.
-   - Additionally, you can access the "Orders" section in your account to view all your orders.
+Some products with the details
 
 
 ## Contact Information
