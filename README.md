@@ -43,7 +43,7 @@ Some products with the details
 
 If you have any questions, suggestions, or just want to get in touch, you can reach us at:
 
-- Email: [omarelqady4@gmail.com](omarelqady4@gmail.com)
+- Email: (omarelqady4@gmail.com)
 - LinkedIn: [Omar Mohamed Elqady](https://www.linkedin.com/in/omar-mohamed-elqady-33611b2a4/)
 
 
