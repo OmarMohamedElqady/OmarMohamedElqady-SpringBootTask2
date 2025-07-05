@@ -1,9 +1,6 @@
 # Full Stack E-Commerce Website with Angular and Spring Boot
 
 
-### 🖥️ Console Output
-![Console Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/part-of-console.png)
-
 ### 💻 Product Category: Laptops
 ![Laptops Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/laptops.png)
 
@@ -12,6 +9,9 @@
 
 ### 🛒 Cart Details View
 ![Cart Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/cart-details.png)
+
+### 🖥️ Part of Console Output
+![Console Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/part-of-console.png)
 
 
 
