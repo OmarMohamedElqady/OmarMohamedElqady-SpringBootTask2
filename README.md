@@ -2,6 +2,8 @@
 
 ### Desktop view
 
+![Console Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/part-of-console.png)
+
 ![Desktop Screenshot](./desktop_screenshot.png)
 
 ### Mobile view
