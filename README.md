@@ -1,14 +1,18 @@
 # Full Stack E-Commerce Website with Angular and Spring Boot
 
-### Desktop view
 
+### 🖥️ Console Output
 ![Console Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/part-of-console.png)
 
-![Desktop Screenshot](./desktop_screenshot.png)
+### 💻 Product Category: Laptops
+![Laptops Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/laptops.png)
 
-### Mobile view
+### 🍔 Product Category: Foods
+![Foods Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/foods.png)
 
-![Mobile Screenshot](./mobile_screenshot.png)
+### 🛒 Cart Details View
+![Cart Screenshot](https://raw.githubusercontent.com/OmarMohamedElqady/SpringBootTask/main/cart-details.png)
+
 
 
 ## Overview
