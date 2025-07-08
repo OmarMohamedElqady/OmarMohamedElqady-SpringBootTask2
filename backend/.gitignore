@@ -1,0 +1,57 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+
+# Compiled class files
+*.class
+
+# Jar files
+*.jar
+
+# Package files (e.g., from build system)
+*.war
+*.ear
+
+# Maven / Gradle build directories
+/target/
+/build/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific settings or local data (if any)
+# Example: if you have a 'config.properties' that stores database passwords locally
+# config.properties
+
+*.iml
