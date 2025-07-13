@@ -1,7 +1,7 @@
 # 📚 Quantum Bookstore Project
 
 Welcome to **Quantum Bookstore**, a simple and extensible online book store backend system built with **Java** .  
-This project was created as a solution for the **Fawry N² Dev Slope Challenge #10**.
+This project was created as a solution for the **Fawry 2nd Challenge**.
 
 ---
 
