@@ -1,3 +1,50 @@
+# 📚 Quantum Bookstore – Spring Boot Project
+
+Welcome to **Quantum Bookstore**, a simple and extensible online book store backend system built with **Java** and **Spring Boot**.  
+This project was created as a solution for the **Fawry N² Dev Slope Challenge #10**.
+
+---
+
+## 🚀 Features
+
+- Manage inventory of 3 types of books:
+  - 📦 **Paper Book** – can be shipped and has limited stock.
+  - 📥 **EBook** – has a file type and is sent via email.
+  - 🖼️ **Showcase/Demo Book** – not for sale.
+
+- ✅ Add a book with:
+  - ISBN
+  - Title
+  - Year of publication
+  - Price
+  - Author
+  - (Optional: filetype or stock based on book type)
+
+- ❌ Remove outdated books (older than specified number of years)
+
+- 🛒 Buy a book by ISBN:
+  - Checks availability
+  - Reduces stock if paper book
+  - Returns total price paid
+  - "Ships" via ShippingService or MailService *(mocked / not implemented)*
+
+- 📦 All print statements are prefixed with: `Quantum book store`
+
+---
+
+## 🧠 System Design Notes
+
+- 📐 **Extensible Design**: Uses inheritance to allow adding new book types without modifying existing logic.
+- 🧱 Book Types inherit from a base `Book` class and override behavior as needed.
+- 🧪 A separate class `QuantumBookstoreFullTest` is provided for testing major features (add, remove, buy).
+
+---
+
+## 📂 Project pictures
+
+
+
+
 ![image](https://github.com/user-attachments/assets/fa9392c5-4899-49ed-a9a9-13d14d21275f)
 
 
